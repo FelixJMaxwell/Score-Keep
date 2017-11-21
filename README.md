@@ -10,4 +10,5 @@ Aplicacion para llevar una cuenta de los puntos de multiples usuarios.
 
 Curso en Udemy.com: https://www.udemy.com/meteor-react/
 
-[/Screenshot.png]
+
+![img del proycto](https://github.com/FelixJMaxwell/score-keep/blob/master/Screenshot.png?raw=true)
