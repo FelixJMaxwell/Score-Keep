@@ -10,4 +10,4 @@ Aplicacion para llevar una cuenta de los puntos de multiples usuarios.
 
 Curso en Udemy.com: https://www.udemy.com/meteor-react/
 
-[Screenshot.png]
+[/Screenshot.png]
